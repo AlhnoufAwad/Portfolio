@@ -12,7 +12,7 @@ const T = {
     first: "Alhnouf",
     last: "Alenezi",
     role: "Front-End Developer",
-    bio: "Recent Management Information Systems graduate from the University of Tabuk and a front-end developer focused on clean, responsive, well-structured interfaces. I currently serve as Executive Administration Manager at Suhb Tech Foundation, pairing technical execution with organized project coordination.",
+    bio: "Recent graduate in Management Information Systems working as an Executive Administrator in a tech company. Experienced in Front-End development and ERP systems analysis. Skilled in translating business requirements into technical solutions using UML modeling. Passionate about bridging business and technology to build efficient, scalable systems.",
     cta1: "View work",
     cta2: "Get in touch",
     stats: [
@@ -21,14 +21,13 @@ const T = {
       { n: "MIS", l: "Graduate" },
     ],
     aboutTitle: "About",
-    about:
-      "I turn ideas into clean, functional, scalable web interfaces — across internal systems, corporate sites, and digital platforms. Alongside development, I led a five-day front-end training program and build projects that balance academic structure with practical execution.",
-    projTitle: "Selected work",
+    about:  " recent graduate in Management Information Systems and currently working as an Executive Administrator in a technology company. I have experience in UI implementation, translating designs into functional interfaces, and contributing to ERP systems analysis and development using UML diagrams to understand and structure workflows. I also supervised digital transformation projects for corporate identity by monitoring project stages and coordinating between teams to ensure successful delivery. I focus on combining business administration with technical solutions to improve efficiency and support decision-making.",
+    projTitle: "Project",
     projHint: "Run a command to open each project",
     expTitle: "Experience",
     exp: [
       {
-        role: "Executive Administration Manager",
+        role: "Executive Administrator",
         org: "Suhb Tech Foundation",
         period: "Present",
         desc: "Coordinate digital operations and project delivery, pairing technical execution with organized administration and clear digital presentation of work.",
@@ -54,7 +53,7 @@ const T = {
     ],
     skillsTitle: "Skills",
     contactTitle: "Let's work together",
-    contactSub: "Open to front-end roles, internships, and collaborative digital projects.",
+    contactSub: "Actively seeking full-time roles and freelance work in front-end development, system analysis, and digital solutions.",
     overview: "Overview",
     challenge: "Challenge",
     solution: "Solution",
@@ -72,7 +71,7 @@ const T = {
     first: "الهنوف",
     last: "العنزي",
     role: "مطوّرة واجهات أمامية",
-    bio: "حديثة تخرّج في نظم المعلومات الإدارية من جامعة تبوك، ومطوّرة واجهات أمامية أركّز على واجهات نظيفة ومتجاوبة وذات هيكلة واضحة. أعمل حالياً مديرة الإدارة التنفيذية في مؤسسة سهب التقنية، أجمع بين التنفيذ التقني والتنظيم الإداري للمشاريع.",
+    bio: "حديث تخرج في تخصص نظم المعلومات الإدارية، أعمل كإداري تنفيذي في شركة تقنية، وأمتلك خبرة عملية في تطوير واجهات الويب (Front-End) والمساهمة في بناء وتحليل أنظمة ERP. أركز على فهم احتياجات الأعمال وتحويلها إلى حلول تقنية فعّالة، مع خبرة في تحليل الأنظمة باستخدام مخططات UML لتصميم حلول واضحة وقابلة للتطوير. أسعى لدمج المعرفة الإدارية مع المهارات التقنية لبناء أنظمة تدعم كفاءة العمليات وتحسن تجربة المستخدم.",
     cta1: "عرض الأعمال",
     cta2: "تواصلي معي",
     stats: [
@@ -81,14 +80,13 @@ const T = {
       { n: "نظم", l: "حديثة تخرّج" },
     ],
     aboutTitle: "عني",
-    about:
-      "أحوّل الأفكار إلى واجهات ويب نظيفة وعملية وقابلة للتوسّع — في الأنظمة الداخلية ومواقع الشركات والمنصّات الرقمية. إلى جانب التطوير، قدّمت برنامجاً تدريبياً في الواجهات الأمامية لمدة خمسة أيام، وأبني مشاريع توازن بين الانضباط الأكاديمي والتنفيذ العملي.",
-    projTitle: "أعمال مختارة",
+    about: " حديث تخرج في تخصص نظم المعلومات الإدارية وأعمل كإداري تنفيذي في شركة تقنية، أمتلك خبرة في تنفيذ واجهات المستخدم وتحويل التصاميم إلى واجهات عملية، والمشاركة في تحليل وبناء أنظمة ERP باستخدام مخططات UML لفهم وتوضيح تدفق العمليات. كما أشرفت على مشاريع التحول الرقمي للهوية المؤسسية من خلال متابعة مراحل التنفيذ والتنسيق بين الفرق لضمان جودة التسليم. أركز على دمج الجانب الإداري مع التقني لتطوير حلول فعالة تدعم كفاءة الأعمال واتخاذ القرار.",
+    projTitle: "أعمالي",
     projHint: "شغّل الأمر لفتح كل مشروع",
     expTitle: "الخبرة",
     exp: [
       {
-        role: "مديرة الإدارة التنفيذية",
+        role: "إداري تنفيذي",
         org: "مؤسسة سهب التقنية",
         period: "حالياً",
         desc: "أنسّق العمليات الرقمية وتسليم المشاريع، وأجمع بين التنفيذ التقني والتنظيم الإداري والعرض الرقمي الواضح للأعمال.",
@@ -114,7 +112,7 @@ const T = {
     ],
     skillsTitle: "المهارات",
     contactTitle: "لنعمل معاً",
-    contactSub: "منفتحة على فرص الواجهات الأمامية والتدريب والتعاون في المشاريع الرقمية.",
+    contactSub: "جاهزة لفرص وظيفية أو مشاريع فريلانس في تطوير الواجهات وتحليل الأنظمة وبناء الحلول الرقمية.",
     overview: "نظرة عامة",
     challenge: "التحدي",
     solution: "الحل",
@@ -161,7 +159,7 @@ const PROJECTS = [
   {
     idx: "02",
     cmd: "albluwi-system",
-    name: { en: "Mohammed Al-Bluwi Group System", ar: "سيستم مجموعة محمد البلوي" },
+    name: { en: "ERP System Mohammed Al-Bluwi Group ", ar: "نظام ERP  لمجموعة محمد البلوي " },
     line: { en: "Front-end interface for internal operations & financial workflows", ar: "واجهة أمامية للعمليات الداخلية وسير العمل المالي" },
     badges: { en: ["System UI", "Engineering"], ar: ["واجهة سيستم", "هندسي"] },
     overview: {
@@ -209,8 +207,8 @@ const PROJECTS = [
       en: "A professional corporate website presenting Suhb Tech's services, brand identity and business communication through a confident, responsive interface.",
       ar: "موقع شركة احترافي يعرض خدمات سهب التقنية وهوية العلامة والتواصل المؤسسي عبر واجهة واثقة ومتجاوبة.",
     },
-    stack: ["HTML", "CSS", "JavaScript"],
-    code: "https://github.com/alhnoufawad",
+    stack: ["React.js, JavaScript (ES6+), Vite, HTML5, CSS3, Context API"],
+    live: "https://suhb-tec.vercel.app/",
   },
 ];
 
